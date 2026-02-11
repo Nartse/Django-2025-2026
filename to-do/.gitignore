@@ -1,0 +1,21 @@
+
+Paste this:
+
+```gitignore
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+env/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# JSON backup files (optional)
+*.bak
+
+# VS Code settings (optional)
+.vscode/
